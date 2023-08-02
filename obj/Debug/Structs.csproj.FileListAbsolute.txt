@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\Structs\Structs\bin\Debug\Structs.exe.config
+D:\SimpliLearn Course\Assisted Project\Structs\Structs\bin\Debug\Structs.exe
+D:\SimpliLearn Course\Assisted Project\Structs\Structs\bin\Debug\Structs.pdb
+D:\SimpliLearn Course\Assisted Project\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\Structs\Structs\obj\Debug\Structs.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\Structs\Structs\obj\Debug\Structs.exe
+D:\SimpliLearn Course\Assisted Project\Structs\Structs\obj\Debug\Structs.pdb
